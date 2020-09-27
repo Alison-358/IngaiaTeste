@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWLbroXNvHDwwp2QwtduKOTZOr2b1WbRD4njpOyckTrgYSdqMrCNH8x7/BxdT7jTt1tmmqXYMxNDdobsfPLIPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aliso\\Desktop\\Projects\\Versionados\\IngaiaTest\\IngaiaTeste\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aliso\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\aliso\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\aliso\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\aliso\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\aliso\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\aliso\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

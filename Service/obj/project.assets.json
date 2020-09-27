@@ -300,27 +300,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alison.nascimento\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\aliso\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alison.nascimento\\source\\repos\\TesteIngaia\\Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\aliso\\Desktop\\Projects\\Versionados\\IngaiaTest\\IngaiaTeste\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Users\\alison.nascimento\\source\\repos\\TesteIngaia\\Service\\Service.csproj",
-      "packagesPath": "C:\\Users\\alison.nascimento\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alison.nascimento\\source\\repos\\TesteIngaia\\Service\\obj\\",
+      "projectPath": "C:\\Users\\aliso\\Desktop\\Projects\\Versionados\\IngaiaTest\\IngaiaTeste\\Service\\Service.csproj",
+      "packagesPath": "C:\\Users\\aliso\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aliso\\Desktop\\Projects\\Versionados\\IngaiaTest\\IngaiaTeste\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\alison.nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\aliso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -332,8 +329,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\alison.nascimento\\source\\repos\\TesteIngaia\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\alison.nascimento\\source\\repos\\TesteIngaia\\Domain\\Domain.csproj"
+            "C:\\Users\\aliso\\Desktop\\Projects\\Versionados\\IngaiaTest\\IngaiaTeste\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\aliso\\Desktop\\Projects\\Versionados\\IngaiaTest\\IngaiaTeste\\Domain\\Domain.csproj"
             }
           }
         }
@@ -371,7 +368,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

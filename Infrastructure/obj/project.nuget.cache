@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oCAPHppsKrsDelDiqtfRaN8Fbo+C8UWpaeMozIKxI3OXF7CyPlwTgbONf+yCn1OET/xwdTXLIxHi2JxZOl5/XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aliso\\Desktop\\Projects\\Versionados\\IngaiaTest\\IngaiaTeste\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aliso\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
