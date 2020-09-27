@@ -1,0 +1,14 @@
+- Login
+  Campos E-mail e Password são obrigatórios.
+  Clicar no botão para autenticar
+
+- Modal-Dialog
+  Caso vermelho: mostra uma mensagem em erro.
+  Caso verde: mostra uma mensagem de sucesso.
+
+- Index 
+  Tela index do sistema, mostra uma barra de pesquisa e uma grid com retorno da pesquisa.
+  Campo da pesquisa obrigatório, deve ser digitado o nome de uma cidade.
+
+- Modal Statistic
+  Mostra uma janela modal com estatísticas de busca das cidades no sistema.
