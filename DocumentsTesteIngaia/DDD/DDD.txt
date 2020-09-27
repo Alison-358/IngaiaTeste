@@ -1,0 +1,10 @@
+O DDD (Domain Driven Design) é uma modelagem de software cujo objetivo é facilitar a implementação de regras e processos complexos, 
+onde visa a divisão de responsabilidades por camadas e é independente da tecnologia utilizada.
+
+1- Camada de aplicação: responsável pelo projeto principal, pois é onde será desenvolvido os controladores e serviços da API.
+2- Camada de domínio: responsável pela implementação de classes/modelos, as quais serão mapeadas para o banco de dados.
+3- Camada de serviço: Onde feita todas as regras de negócio e todas as validações, antes de persistir os dados no banco de dados.
+4- Camada de infraestrutura: é dividida em duas sub-camadas
+   - Data: realiza a persistência com o banco de dados, utilizando, ou não, algum ORM.
+   - Cross-Cutting: Contém as funcionalidades que pode ser utilizada em qualquer parte do código. 
+     Consumo de API externa e utilização de alguma segurança

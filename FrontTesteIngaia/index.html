@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Bare - Start Bootstrap Template</title>
+
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="css/busy_indicator.css" type="text/css"/>
+  <link rel="stylesheet" href="css/style.css" type="text/css"/>
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <script src="js/busy_indicator.js" type="text/javascript"></script>
+
+</head>
+
+<body>
+	<!--Waiting indicator-->
+	<div id="busybox" class="fog_div">
+        <div></div>
+	</div>
+	<!-- Modal Message-->
+	<div class="modal fade" id="messageModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="exampleModalLabel"><label id="titleMessageModal"></label></h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<label id="responseError" class="alert alert-danger" role="alert" style="display: none;"></label>
+					<label id="responseSuccess" class="alert alert-success" role="alert" style="display: none;"></label>
+				</div>
+				<!-- <div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-primary">Save changes</button>
+				</div> -->
+			</div>
+		</div>
+	</div>
+
+  <!--Modal Statistics-->
+  <div class="modal fade bd-example-modal-lg" tabindex="-1" id="modalStatistics" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-lg">
+	  <div class="modal-content">
+		<div class="modal-header">
+			<h5 class="modal-title">Statistics</h5>
+			<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+			  <span aria-hidden="true">&times;</span>
+			</button>
+		</div>
+		<div class="modal-body scrollBarModal">
+			<div id="chartContainer" style="height: 400px; width: 100%;"></div>
+		</div>
+	  </div>
+	</div>
+  </div>
+   
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">Start Bootstrap</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home
+              <span class="sr-only">(current)</span>
+            </a>
+		  </li>
+		  <li class="nav-item">
+            <a class="nav-link" href="#" onclick="ShowStatistic()">Statistic</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="login.html">Login</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" onclick="LogOut()">Log out</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<div class="row" style="margin-top: 30px;">
+					<div class="col-md-12">
+						<div class="input-group mb-3">
+							<input type="text" class="form-control" id="filter" value="Recife" placeholder="City name" aria-label="Recipient's username" aria-describedby="basic-addon2" required>
+							<div class="input-group-append">
+							<button class="btn btn-outline-secondary" type="button" onclick="GetPlaylist()">Search</button>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row" style="margin-top: 30px;">
+					Cache is during 10 seconds
+					<div class="col-md-12">
+						<table class="table table-striped">
+							<thead class="thead-dark">
+							  <tr>
+								<th scope="col" style="text-align: center;">Count</th>
+								<th scope="col" style="text-align: center;">Music Name</th>
+							  </tr>
+							</thead>
+							<tbody id="tbodyTable">
+							  
+							</tbody>
+						  </table>
+					</div>
+				</div>
+			</div>
+		</div>
+  	</div>
+
+  <!-- Bootstrap core JavaScript -->
+  <!--===============================================================================================-->
+	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+	<!--===============================================================================================-->
+		<script src="vendor/animsition/js/animsition.min.js"></script>
+	<!--===============================================================================================-->
+		<script src="vendor/bootstrap/js/popper.js"></script>
+		<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+	<!--===============================================================================================-->
+		<script src="vendor/select2/select2.min.js"></script>
+	<!--===============================================================================================-->
+		<script src="vendor/daterangepicker/moment.min.js"></script>
+		<script src="vendor/daterangepicker/daterangepicker.js"></script>
+	<!--===============================================================================================-->
+		<script src="vendor/countdowntime/countdowntime.js"></script>
+	<!--===============================================================================================-->
+	
+	<script type="text/javascript" src="https://canvasjs.com/assets/script/jquery.canvasjs.min.js"></script>
+  <script src="js/isAuthenticated.js"></script> 
+  <!-- <script type="text/javascript" src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>   -->
+  
+</body>
+
+</html>
