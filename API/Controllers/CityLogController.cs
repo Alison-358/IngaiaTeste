@@ -41,7 +41,7 @@ namespace API.Controllers
             try
             {
                 //var filePath = @"~/../Utils/Log/CitiesConsultationLog.txt";
-                var filePath = @"https://github.com/Alison-358/IngaiaTeste/edit/master/API/Utils/Log/CitiesConsultationLog.txt";
+                var filePath = @"../../Utils/Log/CitiesConsultationLog.txt";
 
                 var cityies = new List<CityLog>();
 
