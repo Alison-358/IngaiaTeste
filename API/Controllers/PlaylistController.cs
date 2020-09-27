@@ -53,7 +53,8 @@ namespace API.Controllers
                 if (!string.IsNullOrEmpty(filter))
                 {
                     //taking data for query statistics
-                    var filePath = @"~/../Utils/Log/CitiesConsultationLog.txt";
+                    //var filePath = @"~/../Utils/Log/CitiesConsultationLog.txt";
+                    var filePath = @"Utils/Log/CitiesConsultationLog.txt";
 
                     var playLists = new List<Playlist>();
 

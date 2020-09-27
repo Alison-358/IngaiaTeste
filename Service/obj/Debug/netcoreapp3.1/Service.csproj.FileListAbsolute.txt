@@ -9,3 +9,15 @@ C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\obj\Debug\netcoreapp
 C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
 C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\obj\Debug\netcoreapp3.1\Service.dll
 C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Service\obj\Debug\netcoreapp3.1\Service.pdb

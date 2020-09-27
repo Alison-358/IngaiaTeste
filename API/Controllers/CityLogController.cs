@@ -40,7 +40,8 @@ namespace API.Controllers
         {
             try
             {
-                var filePath = @"~/../Utils/Log/CitiesConsultationLog.txt";
+                //var filePath = @"~/../Utils/Log/CitiesConsultationLog.txt";
+                var filePath = @"Utils/Log/CitiesConsultationLog.txt";
 
                 var cityies = new List<CityLog>();
 

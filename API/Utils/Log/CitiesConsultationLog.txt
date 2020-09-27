@@ -45,3 +45,6 @@
 { 'city' : 'caxias do sul', 'count' : '1', 'date' : '09/27/2020 02:43:46', 'NameWithoutAccent': 'caxias do sul' }
 { 'city' : 'brumadinho', 'count' : '1', 'date' : '09/27/2020 02:43:59', 'NameWithoutAccent': 'brumadinho' }
 { 'city' : 'Alaska', 'count' : '1', 'date' : '09/27/2020 02:55:26', 'NameWithoutAccent': 'alaska' }
+{ 'city' : 'blumenau', 'count' : '1', 'date' : '09/27/2020 03:41:13', 'NameWithoutAccent': 'blumenau' }
+{ 'city' : 'blumenau', 'count' : '1', 'date' : '09/27/2020 04:43:23', 'NameWithoutAccent': 'blumenau' }
+{ 'city' : 'piracicaba', 'count' : '1', 'date' : '09/27/2020 04:45:23', 'NameWithoutAccent': 'piracicaba' }

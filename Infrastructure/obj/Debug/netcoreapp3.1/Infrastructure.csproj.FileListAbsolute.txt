@@ -9,3 +9,15 @@ C:\Users\alison.nascimento\source\repos\TesteIngaia\Infrastructure\obj\Debug\net
 C:\Users\alison.nascimento\source\repos\TesteIngaia\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
 C:\Users\alison.nascimento\source\repos\TesteIngaia\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Users\alison.nascimento\source\repos\TesteIngaia\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\aliso\Desktop\Projects\Versionados\IngaiaTest\IngaiaTeste\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
