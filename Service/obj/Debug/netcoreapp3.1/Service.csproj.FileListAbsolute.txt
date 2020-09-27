@@ -1,0 +1,11 @@
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Service\obj\Debug\netcoreapp3.1\Service.pdb

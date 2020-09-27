@@ -1,0 +1,8 @@
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\alison.nascimento\source\repos\TesteIngaia\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache

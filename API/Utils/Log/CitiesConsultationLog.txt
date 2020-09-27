@@ -1,0 +1,47 @@
+﻿{ 'city' : 'São Paulo', 'count' : '1', 'date' : '09/24/2020 04:41:13', 'NameWithoutAccent': 'sao paulo' }
+{ 'city' : 'São Paulo', 'count' : '1', 'date' : '09/24/2020 04:41:53', 'NameWithoutAccent': 'sao paulo' }
+{ 'city' : 'São Carlos', 'count' : '1', 'date' : '09/24/2020 04:42:28', 'NameWithoutAccent': 'sao carlos' }
+{ 'city' : 'blumenau', 'count' : '1', 'date' : '09/24/2020 04:43:03', 'NameWithoutAccent': 'blumenau' }
+{ 'city' : 'blumenau', 'count' : '1', 'date' : '09/24/2020 04:43:03', 'NameWithoutAccent': 'blumenau' }
+{ 'city' : 'blumenau', 'count' : '1', 'date' : '09/24/2020 04:43:03', 'NameWithoutAccent': 'blumenau' }
+{ 'city' : 'pesqueira', 'count' : '1', 'date' : '09/24/2020 04:43:47', 'NameWithoutAccent': 'pesqueira' }
+{ 'city' : 'São Paulo', 'count' : '1', 'date' : '09/24/2020 09:34:31', 'NameWithoutAccent': 'sao paulo' }
+{ 'city' : 'São Paulo', 'count' : '1', 'date' : '09/24/2020 09:35:59', 'NameWithoutAccent': 'sao paulo' }
+{ 'city' : 'São Paulo', 'count' : '1', 'date' : '09/24/2020 09:50:12', 'NameWithoutAccent': 'sao paulo' }
+{ 'city' : 'Aracaju', 'count' : '1', 'date' : '09/24/2020 10:03:14', 'NameWithoutAccent': 'aracaju' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/24/2020 10:06:05', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'Londres', 'count' : '1', 'date' : '09/24/2020 10:08:17', 'NameWithoutAccent': 'londres' }
+{ 'city' : 'Blumenau', 'count' : '1', 'date' : '09/24/2020 10:09:53', 'NameWithoutAccent': 'blumenau' }
+{ 'city' : 'Olinda', 'count' : '1', 'date' : '09/24/2020 10:11:19', 'NameWithoutAccent': 'olinda' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/24/2020 10:12:13', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'São Paulo', 'count' : '1', 'date' : '09/24/2020 10:14:36', 'NameWithoutAccent': 'sao paulo' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/24/2020 10:18:20', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/24/2020 10:20:37', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'Ribeirão preto', 'count' : '1', 'date' : '09/24/2020 10:21:20', 'NameWithoutAccent': 'ribeirao preto' }
+{ 'city' : 'Cork', 'count' : '1', 'date' : '09/24/2020 10:22:02', 'NameWithoutAccent': 'cork' }
+{ 'city' : 'toronto', 'count' : '1', 'date' : '09/24/2020 10:22:46', 'NameWithoutAccent': 'toronto' }
+{ 'city' : 'alaska', 'count' : '1', 'date' : '09/24/2020 10:23:33', 'NameWithoutAccent': 'alaska' }
+{ 'city' : 'alaska', 'count' : '1', 'date' : '09/24/2020 10:24:28', 'NameWithoutAccent': 'alaska' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/24/2020 10:25:46', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'Alaska', 'count' : '1', 'date' : '09/24/2020 10:26:27', 'NameWithoutAccent': 'alaska' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/24/2020 10:27:51', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'Alaska', 'count' : '1', 'date' : '09/24/2020 10:28:34', 'NameWithoutAccent': 'alaska' }
+{ 'city' : 'Berlin', 'count' : '1', 'date' : '09/24/2020 10:44:16', 'NameWithoutAccent': 'berlin' }
+{ 'city' : 'Limeira', 'count' : '1', 'date' : '09/24/2020 10:45:36', 'NameWithoutAccent': 'limeira' }
+{ 'city' : 'Cork', 'count' : '1', 'date' : '09/25/2020 11:32:35', 'NameWithoutAccent': 'cork' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/25/2020 11:35:35', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'blumenau', 'count' : '1', 'date' : '09/25/2020 11:46:06', 'NameWithoutAccent': 'blumenau' }
+{ 'city' : 'blumenau', 'count' : '1', 'date' : '09/25/2020 12:01:57', 'NameWithoutAccent': 'blumenau' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/26/2020 07:18:16', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/26/2020 08:32:48', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/26/2020 09:01:11', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/27/2020 02:39:51', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'Belém', 'count' : '1', 'date' : '09/27/2020 02:40:07', 'NameWithoutAccent': 'belem' }
+{ 'city' : 'London', 'count' : '1', 'date' : '09/27/2020 02:40:23', 'NameWithoutAccent': 'london' }
+{ 'city' : 'London', 'count' : '1', 'date' : '09/27/2020 02:40:56', 'NameWithoutAccent': 'london' }
+{ 'city' : 'Aracaju', 'count' : '1', 'date' : '09/27/2020 02:41:31', 'NameWithoutAccent': 'aracaju' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/27/2020 02:41:57', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'Recife', 'count' : '1', 'date' : '09/27/2020 02:43:27', 'NameWithoutAccent': 'recife' }
+{ 'city' : 'caxias do sul', 'count' : '1', 'date' : '09/27/2020 02:43:46', 'NameWithoutAccent': 'caxias do sul' }
+{ 'city' : 'brumadinho', 'count' : '1', 'date' : '09/27/2020 02:43:59', 'NameWithoutAccent': 'brumadinho' }
+{ 'city' : 'Alaska', 'count' : '1', 'date' : '09/27/2020 02:55:26', 'NameWithoutAccent': 'alaska' }
