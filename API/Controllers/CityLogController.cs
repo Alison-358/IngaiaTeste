@@ -20,9 +20,8 @@ namespace API.Controllers
     public class CityLogController : ControllerBase
     {
         private readonly ILogger<CityLogController> _logger;
-        private readonly Microsoft.AspNetCore.Hosting.IWebHostEnvironment _hostingEnvironment;
 
-        public CityLogController(ILogger<CityLogController> logger, Microsoft.AspNetCore.Hosting.IWebHostEnvironment hostingEnvironment)
+        public CityLogController(ILogger<CityLogController> logger)
         {
             _logger = logger;
         }
@@ -45,9 +44,7 @@ namespace API.Controllers
                 //var filePath = @"~/../Utils/Log/CitiesConsultationLog.txt";
                 
                 //Execute heroku
-                //var filePath = @"../../Utils/Log/CitiesConsultationLog.txt";
-                var filePath = _hostingEnvironment.WebRootPath + "Utils\\Log\\";
-                filePath = filePath + "CitiesConsultationLog.txt";
+                var filePath = @"../../Utils/Log/CitiesConsultationLog.txt";             
 
                 var cityies = new List<CityLog>();
 
