@@ -119,11 +119,6 @@ namespace API
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
-            {
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
-            }
 
             app.UseCors(builder => builder
                 .SetIsOriginAllowed(_ => true)
