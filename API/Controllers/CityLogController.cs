@@ -20,8 +20,9 @@ namespace API.Controllers
     public class CityLogController : ControllerBase
     {
         private readonly ILogger<CityLogController> _logger;
+        private readonly Microsoft.AspNetCore.Hosting.IWebHostEnvironment _hostingEnvironment;
 
-        public CityLogController(ILogger<CityLogController> logger)
+        public CityLogController(ILogger<CityLogController> logger, Microsoft.AspNetCore.Hosting.IWebHostEnvironment hostingEnvironment)
         {
             _logger = logger;
         }
