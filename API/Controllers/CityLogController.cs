@@ -40,7 +40,10 @@ namespace API.Controllers
         {
             try
             {
+                //Execute localhost
                 //var filePath = @"~/../Utils/Log/CitiesConsultationLog.txt";
+                
+                //Execute heroku
                 var filePath = @"../../Utils/Log/CitiesConsultationLog.txt";
 
                 var cityies = new List<CityLog>();
