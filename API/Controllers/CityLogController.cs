@@ -44,7 +44,9 @@ namespace API.Controllers
                 //var filePath = @"~/../Utils/Log/CitiesConsultationLog.txt";
                 
                 //Execute heroku
-                var filePath = @"../../Utils/Log/CitiesConsultationLog.txt";
+                //var filePath = @"../../Utils/Log/CitiesConsultationLog.txt";
+                var filePath = _hostingEnvironment.WebRootPath + "Utils\\Log\\";
+                filePath = filePath + "CitiesConsultationLog.txt";
 
                 var cityies = new List<CityLog>();
 
