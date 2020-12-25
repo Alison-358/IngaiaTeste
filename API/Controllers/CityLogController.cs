@@ -54,6 +54,7 @@ namespace API.Controllers
 
                     while ((ln = file.ReadLine()) != null)
                     {
+                        //teste
                         if (!string.IsNullOrEmpty(ln))
                         {
                             JObject json = JObject.Parse(ln);
